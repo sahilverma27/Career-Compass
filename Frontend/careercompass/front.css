@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#heading{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #e9f7fd;
+    
+}
+ 
+.carousel-item {
+    height: 500px; /* Set your desired height */
+}
+
+.carousel-item img {
+    object-fit: cover; /* Maintain image aspect ratio and fill the carousel */
+    height: 100%;
+    width: 100%;
+    }
+
+  
